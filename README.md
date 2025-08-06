@@ -100,5 +100,3 @@ terraform destroy
 4. Once complete, share the link to your GitHub repository with us for review.
 
 ---
-
-Feel free to reach out if you have any questions or need further clarifications!
